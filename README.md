@@ -1,5 +1,10 @@
 # HuggingFace Tutorial for GDSC AI Team
 
+## Offical Documents for HuggingFace
+- [Transformers](https://huggingface.co/docs/transformers/)
+- [Diffusers](https://huggingface.co/docs/diffusers/)
+- [Datasets](https://huggingface.co/datasets/)
+
 ## Usage
 
 create a virtual environment via conda
