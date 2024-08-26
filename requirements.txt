@@ -1,5 +1,7 @@
 ipykernel
 numpy
+matplotlib
+pillow
 torch
 transformers
 accelerate
