@@ -1,6 +1,11 @@
-transformers
+ipykernel
+numpy
 torch
+transformers
+accelerate
+evaluate
+tqdm
+datasets
+streamlit
 torchvision
 diffusers
-accelerate
-streamlit
